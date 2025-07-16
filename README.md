@@ -1,6 +1,3 @@
-from pathlib import Path
-
-readme_content = """
 # 🗺️ Costa Rica Interactive Map
 
 Este proyecto es un mapa interactivo de Costa Rica que muestra la ubicación de volcanes, aeropuertos y aeródromos. Fue desarrollado con [Folium](https://python-visualization.github.io/folium/) y datos estructurados en JSON. El mapa detecta automáticamente el idioma del sistema y muestra la información en inglés o español.
