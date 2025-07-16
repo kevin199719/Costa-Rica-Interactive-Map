@@ -1,0 +1,443 @@
+{
+  "volcanoes": [
+    {
+      "name": { "es": "Arenal", "en": "Arenal" },
+      "location": "Alajuela",
+      "status": "Active",
+      "elevation": 1670,
+      "type": "Stratovolcano",
+      "lat": 10.4631,
+      "lon": -84.7036,
+      "url": "https://www.sinac.go.cr/es/ac/acahn/pnva/paginas/default.aspx"
+    },
+    {
+      "name": { "es": "Poás", "en": "Poás" },
+      "location": "Alajuela",
+      "status": "Active",
+      "elevation": 2708,
+      "type": "Stratovolcano",
+      "lat": 10.1997,
+      "lon": -84.2336,
+      "url": "https://www.sinac.go.cr/es/ac/accvc/pnvp/paginas/default.aspx"
+    },
+    {
+      "name": { "es": "Irazú", "en": "Irazú" },
+      "location": "Cartago",
+      "status": "Active",
+      "elevation": 3432,
+      "type": "Stratovolcano",
+      "lat": 9.9792,
+      "lon": -83.8564,
+      "url": "https://www.sinac.go.cr/ES/ac/accvc/pnvi/Paginas/default.aspx"
+    },
+    {
+      "name": { "es": "Turrialba", "en": "Turrialba" },
+      "location": "Cartago",
+      "status": "Active",
+      "elevation": 3340,
+      "type": "Stratovolcano",
+      "lat": 10.025,
+      "lon": -83.7678,
+      "url": "https://www.sinac.go.cr/es/ac/accvc/pnvt/paginas/default.aspx"
+    },
+    {
+      "name": { "es": "Rincón de la Vieja", "en": "Rincón de la Vieja" },
+      "location": "Guanacaste",
+      "status": "Active",
+      "elevation": 1916,
+      "type": "Complex volcano",
+      "lat": 10.83,
+      "lon": -85.324,
+      "url": "https://www.sinac.go.cr/es/ac/acg/pnrv/paginas/default.aspx"
+    }
+  ],
+  "airports": [
+    {
+      "name": {
+        "es": "Aeropuerto Internacional Juan Santamaría",
+        "en": "Juan Santamaría Intl Airport"
+      },
+      "location": "Alajuela",
+      "type": { "es": "Internacional", "en": "International" },
+      "lat": 9.9982,
+      "lon": -84.2041
+    },
+    {
+      "name": {
+        "es": "Aeropuerto Internacional Daniel Oduber",
+        "en": "Daniel Oduber Intl Airport"
+      },
+      "location": "Liberia",
+      "type": { "es": "Internacional", "en": "International" },
+      "lat": 10.5933,
+      "lon": -85.5444
+    },
+    {
+      "name": {
+        "es": "Aeropuerto Tobías Bolaños",
+        "en": "Tobías Bolaños Airport"
+      },
+      "location": "San José",
+      "type": { "es": "Nacional", "en": "National" },
+      "lat": 9.957,
+      "lon": -84.1397
+    },
+    {
+      "name": {
+        "es": "Aeropuerto de Limón",
+        "en": "Limón Intl Airport"
+      },
+      "location": "Limón",
+      "type": { "es": "Nacional", "en": "National" },
+      "lat": 9.957,
+      "lon": -83.02007
+    },
+    {
+      "name": {
+        "es": "Aeropuerto de Quepos",
+        "en": "Quepos Airport"
+      },
+      "location": "Puntarenas",
+      "type": { "es": "Nacional", "en": "National" },
+      "lat": 9.4317,
+      "lon": -84.129
+    },
+    {
+      "name": {
+        "es": "Aeropuerto de Tambor",
+        "en": "Tambor Airport"
+      },
+      "location": "Puntarenas",
+      "type": { "es": "Nacional", "en": "National" },
+      "lat": 9.7385,
+      "lon": -85.0138
+    },
+    {
+      "name": {
+        "es": "Aeropuerto de Nosara",
+        "en": "Nosara Airport"
+      },
+      "location": "Guanacaste",
+      "type": { "es": "Nacional", "en": "National" },
+      "lat": 9.9767,
+      "lon": -85.6526
+    },
+    {
+      "name": {
+        "es": "Aeropuerto de Tamarindo",
+        "en": "Tamarindo Airport"
+      },
+      "location": "Guanacaste",
+      "type": { "es": "Nacional", "en": "National" },
+      "lat": 10.3133,
+      "lon": -85.8167
+    },
+    {
+      "name": {
+        "es": "Aeropuerto de Bahía Drake",
+        "en": "Drake Bay Airport"
+      },
+      "location": "Puntarenas",
+      "type": { "es": "Nacional", "en": "National" },
+      "lat": 8.7189,
+      "lon": -83.6417
+    },
+    {
+      "name": {"es": "Aeropuerto de Golfito", "en": "Golfito Airport"},
+      "location": "Golfito",
+      "type": {"es": "Regional", "en": "Regional"},
+      "lat": 8.65416,
+      "lon": -83.18208
+    },
+    {
+      "name": {"es": "Aeropuerto Coto 47", "en": "Coto 47 Airport"},
+      "location": "Golfito",
+      "type": {"es": "Regional", "en": "Regional"},
+      "lat": 8.60152,
+      "lon": -82.96847
+    },
+    {
+      "name": {"es": "Aeropuerto de Batán", "en": "Batán Airport"},
+      "location": "Batán",
+      "type": {"es": "Regional", "en": "Regional"},
+      "lat": 10.087,
+      "lon": -83.32329
+    },
+    {
+      "name": {"es": "Aeropuerto de Tortuguero", "en": "Tortuguero Airport"},
+      "location": "Tortuguero",
+      "type": {"es": "Regional", "en": "Regional"},
+      "lat": 10.56869,
+      "lon": -83.5148
+    },
+    {
+      "name": {"es": "Aeropuerto Barra del Colorado", "en": "Barra del Colorado Airport"},
+      "location": "Barra del Colorado",
+      "type": {"es": "Regional", "en": "Regional"},
+      "lat": 10.76777,
+      "lon": -83.58532
+    },
+    {
+      "name": {"es": "Aeropuerto de Nicoya", "en": "Nicoya Airport"},
+      "location": "Nicoya",
+      "type": {"es": "Regional", "en": "Regional"},
+      "lat": 10.13931,
+      "lon": -85.44574
+    },
+    {
+      "name": {"es": "Aeropuerto San Agustín", "en": "San Agustín Airport"},
+      "location": "San Agustín",
+      "type": {"es": "Regional", "en": "Regional"},
+      "lat": 9.5878,
+      "lon": -84.0721
+    },
+    {
+      "name": {"es": "Aeropuerto de Esterillos", "en": "Esterillos Airport"},
+      "location": "Esterillos",
+      "type": {"es": "Regional", "en": "Regional"},
+      "lat": 9.52598,
+      "lon": -84.45455
+    },
+    {
+      "name": {"es": "Aeropuerto La Ligia", "en": "La Ligia Airport"},
+      "location": "La Ligia",
+      "type": {"es": "Regional", "en": "Regional"},
+      "lat": 9.51527,
+      "lon": -84.30150
+    },
+    {
+      "name": {"es": "Aeropuerto Palmar sur", "en": "Palmar Sur Airport"},
+      "location": "Palmar Sur",
+      "type": {"es": "Regional", "en": "Regional"},
+      "lat": 8.95045,
+      "lon": -83.46877
+    },
+    {
+      "name": {"es": "Aeropuerto La fortuna", "en": "La fortuna Airport"},
+      "location": "San Carlos",
+      "type": {"es": "Regional", "en": "Regional"},
+      "lat": 10.46937,
+      "lon": -84.57898
+    }
+
+  ],
+  "aerodromes": [
+    {
+      "name": {"es": "Aeródromo Finca 63", "en": "Finca 63 Aerodrome"},
+      "location": "Rural",
+      "type": {"es": "Privado", "en": "Private"},
+      "lat": 8.64935,
+      "lon": -83.06438
+    },
+    {
+      "name": {"es": "Aeródromo Rancho de Mar", "en": "Rancho de Mar Aerodrome"},
+      "location": "Rural",
+      "type": {"es": "Privado", "en": "Private"},
+      "lat": 8.4356,
+      "lon": -83.0995
+    },
+    {
+      "name": {"es": "Aeródromo Laurel", "en": "Laurel Aerodrome"},
+      "location": "Laurel",
+      "type": {"es": "Privado", "en": "Private"},
+      "lat": 8.44066,
+      "lon": -82.90886
+    },
+    {
+      "name": {"es": "Aeródromo de San Alberto", "en": "San Alberto Aerodrome"},
+      "location": "San Alberto",
+      "type": {"es": "Privado", "en": "Private"},
+      "lat": 10.14814,
+      "lon": -83.4909
+    },
+    {
+      "name": {"es": "Aeródromo de El Carmen de Siquirres", "en": "El Carmen de Siquirres Aerodrome"},
+      "location": "El Carmen de Siquirres",
+      "type": {"es": "Privado", "en": "Private"},
+      "lat": 10.20189,
+      "lon": -83.47189
+    },
+    {
+      "name": {"es": "Aeródromo Santa María de Guácimo", "en": "Santa María de Guácimo Aerodrome"},
+      "location": "Santa María de Guácimo",
+      "type": {"es": "Privado", "en": "Private"},
+      "lat": 10.27062,
+      "lon": -83.58388
+    },
+    {
+      "name": {"es": "Aeródromo Yucática", "en": "Yucática Aerodrome"},
+      "location": "Yucática",
+      "type": {"es": "Privado", "en": "Private"},
+      "lat": 10.3388,
+      "lon": -83.6687
+    },
+    {
+      "name": {"es": "Aeródromo Duacarí 2", "en": "Duacarí 2 Aerodrome"},
+      "location": "Duacarí 2",
+      "type": {"es": "Privado", "en": "Private"},
+      "lat": 10.35127,
+      "lon": -83.63063
+    },
+    {
+      "name": {"es": "Aeródromo Santa Clara de Pococí", "en": "Santa Clara de Pococí Aerodrome"},
+      "location": "Santa Clara de Pococí",
+      "type": {"es": "Privado", "en": "Private"},
+      "lat": 10.28819,
+      "lon": -83.71337
+    },
+    {
+      "name": {"es": "Hacienda Homucha Airport", "en": "Hacienda Homucha Airport"},
+      "location": "Hacienda Homucha",
+      "type": {"es": "Privado", "en": "Private"},
+      "lat": 10.8,
+      "lon": -84.3667
+    },
+    {
+      "name": {"es": "Aeródromo El Descanso", "en": "El Descanso Aerodrome"},
+      "location": "El Descanso",
+      "type": {"es": "Privado", "en": "Private"},
+      "lat": 10.8667,
+      "lon": -84.5333
+    },
+    {
+      "name": {"es": "Aeródromo de Pocosol", "en": "Pocosol Aerodrome"},
+      "location": "Pocosol",
+      "type": {"es": "Privado", "en": "Private"},
+      "lat": 10.9542,
+      "lon": -84.4622
+    },
+    {
+      "name": {"es": "Aeródromo Finca Peñas Blancas", "en": "Finca Peñas Blancas Aerodrome"},
+      "location": "Finca Peñas Blancas",
+      "type": {"es": "Privado", "en": "Private"},
+      "lat": 10.3156,
+      "lon": -85.678
+    },
+    {
+      "name": {"es": "Aeródromo de Sámara", "en": "Sámara Aerodrome"},
+      "location": "Sámara",
+      "type": {"es": "Privado", "en": "Private"},
+      "lat": 9.8993,
+      "lon": -85.5501
+    },
+    {
+      "name": {"es": "Aeródromo de Palo Arco", "en": "Palo Arco Aerodrome"},
+      "location": "Palo Arco",
+      "type": {"es": "Privado", "en": "Private"},
+      "lat": 9.85207,
+      "lon": -85.23776
+    },
+    {
+      "name": {"es": "Aeródromo de Santa Teresa", "en": "Santa Teresa Aerodrome"},
+      "location": "Santa Teresa",
+      "type": {"es": "Privado", "en": "Private"},
+      "lat": 9.6903,
+      "lon": -85.1827
+    },
+    {
+      "name": {"es": "Aeródromo de Cóbano", "en": "Cóbano Aerodrome"},
+      "location": "Cóbano",
+      "type": {"es": "Privado", "en": "Private"},
+      "lat": 9.6934,
+      "lon": -85.091
+    },
+    {
+      "name": {"es": "Aeródromo Aranjuez", "en": "Aranjuez Aerodrome"},
+      "location": "Aranjuez",
+      "type": {"es": "Privado", "en": "Private"},
+      "lat": 10.0601,
+      "lon": -84.8045
+    },
+    {
+      "name": {"es": "Pista Palmar", "en": "Palmar Airstrip"},
+      "location": "Palmar",
+      "type": {"es": "Privado", "en": "Private"},
+      "lat": 10.0285,
+      "lon": -84.7987
+    },
+    {
+      "name": {"es": "Aeródromo de Damas", "en": "Damas Aerodrome"},
+      "location": "Damas",
+      "type": {"es": "Privado", "en": "Private"},
+      "lat": 9.4602,
+      "lon": -84.2064
+    },
+    {
+      "name": {"es": "Aeródromo Barra de Parismina", "en": "Barra de Parismina Aerodrome"},
+      "location": "Barra de Parismina",
+      "type": {"es": "Regional", "en": "Regional"},
+      "lat": 10.30232,
+      "lon": -83.34592
+    },
+    {
+      "name": {"es": "Aeródromo Punta Banco", "en": "Punta Banco Aerodrome"},
+      "location": "Rural",
+      "type": {"es": "Privado", "en": "Private"},
+      "lat": 8.3553,
+      "lon": -83.1356
+    },
+     {
+      "name": {"es": "Aeródromo de Buenos Aires", "en": "Buenos Aires Aerodrome"},
+      "location": "Buenos Aires",
+      "type": {"es": "Regional", "en": "Regional"},
+      "lat": 9.16315,
+      "lon": -83.3303
+    },
+     {
+      "name": {"es": "Aeródromo de San Vito", "en": "San Vito Aerodrome"},
+      "location": "San Vito",
+      "type": {"es": "Regional", "en": "Regional"},
+      "lat": 8.82695,
+      "lon": -82.95886
+    },
+    {
+     "name": {"es": "Aeródromo Finca 10", "en": "Finca 10 Aerodrome"},
+     "location": "Palmar Sur",
+     "type": {"es": "Regional", "en": "Regional"},
+     "lat": 8.91617,
+     "lon": -83.50726
+   },
+   {
+    "name": {"es": "Aeródromo de Pandora", "en": "Pandora Aerodrome"},
+    "location": "Pandora",
+    "type": {"es": "Regional", "en": "Regional"},
+    "lat": 9.73226,
+    "lon": -82.98342
+  },
+  {
+   "name": {"es": "Aeródromo de Upala", "en": "Upala Aerodrome"},
+   "location": "Upala",
+   "type": {"es": "Regional", "en": "Regional"},
+   "lat": 10.89101,
+   "lon": -85.01724
+  },
+  {
+   "name": {"es": "Aeródromo La guinea", "en": "La guinea Aerodrome"},
+   "location": "Guanacaste",
+   "type": {"es": "Regional", "en": "Regional"},
+   "lat": 10.4247,
+   "lon": -85.4694
+ },
+ {
+  "name": {"es": "Aeródromo de Cabo Velas", "en": "Cabo Velas Aerodrome"},
+  "location": "Guanacaste",
+  "type": {"es": "Regional", "en": "Regional"},
+  "lat": 10.35566,
+  "lon": -85.8531
+},
+{
+  "name": {"es": "Aeródromo Punta Islita", "en": "Punta Islita Aerodrome"},
+  "location": "Guanacaste",
+  "type": {"es": "Regional", "en": "Regional"},
+  "lat": 9.8561,
+  "lon": -85.370822
+},
+{
+  "name": {"es": "Aeródromo Salamá", "en": "Salamá Aerodrome"},
+  "location": "Puntaremas, Pidras Blancas",
+  "type": {"es": "Regional", "en": "Regional"},
+  "lat": 8.7894,
+  "lon": -83.2713
+}
+  ]
+}
