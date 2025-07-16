@@ -42,14 +42,12 @@ Instalar dependencias:
 
 ```bash
 pip install folium
-
-Cómo ejecutar
-bash
-Mostrar siempre los detalles
-
-python mapping.py
-El archivo map.html se generará en la carpeta output/. Abrilo en tu navegador para visualizar el mapa interactivo.
 ```
+Cómo ejecutar: 
+- Abre la terminal en tu proyecto
+- Ejecuta "python mapping.py"
+
+El archivo map.html se generará en la carpeta output/. Abrilo en tu navegador para visualizar el mapa interactivo.
 
 ## 🌐 Internationalization
 a aplicación detecta automáticamente el idioma del sistema y muestra la información en:
